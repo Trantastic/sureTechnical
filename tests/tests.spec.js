@@ -1,4 +1,4 @@
-const { test, expect, browserContext } = require('@playwright/test');
+const { test, expect } = require('@playwright/test');
 
 const postalCode = '95112';
 const buildingMaterial = 'straw';
